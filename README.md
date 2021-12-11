@@ -1,7 +1,7 @@
-# portifolio
+# Portfólio
 a little about my self, my jobs and my studies
 
 
-## tafefas
+## Tarefas
 
 Será feito via github mesmo.
