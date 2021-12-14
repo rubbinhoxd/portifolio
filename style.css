@@ -316,13 +316,3 @@ header{
 }
 
 
-.conhecimentos-img-wrapper{  /*imagem*/
-    grid-column: 7 / 11 ;
-    grid-row: 2 / 6;
-    width: 100%;
-}
-
-.conhecimentos-img-wrapper img{
-    object-fit: cover;
-    width: 100%;
-}
