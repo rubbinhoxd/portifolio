@@ -189,7 +189,7 @@ header{
     top: 0;
     right: -20rem;
     transition: all 1s;
-    z-index: 150; /*ter prioridade do menu*/
+    
 }
 
 .show-menu .sidebar{
